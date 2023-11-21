@@ -27,6 +27,7 @@
 		<module>hello-world</module>
 		<module>apigateway</module>
 		<module>eurekaserver</module>
+		<module>PizzaSpringBoot</module>
 	</modules>
 	<dependencies>
 		<dependency>
